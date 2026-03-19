@@ -1,2 +1,1 @@
-﻿Business-Analysis---Power-Bi
-           Analyzed a business dataset.
+Analyzed a business dataset.
